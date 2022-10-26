@@ -1,0 +1,74 @@
+[   
+    {
+      "id": 1,
+      "picture": "https://ibb.co/Ws01LSS",
+      "title": "Introduction to Databse",
+      "description": "",
+      "price": 80
+  
+    },
+    {
+      "id": 2,
+      "picture": "https://ibb.co/hMzyyw3",
+      "title": "Compiler Design",
+      "description": "",
+      "price": 150
+  
+    },
+    {
+      "id": 3,
+      "picture": "http://placehold.it/32x32",
+      "title": "Algorithms",
+      "description": "",
+      "price": 120
+  
+    },
+    {
+      "id": 4,
+      "picture": "https://ibb.co/yPXGTTc",
+      "title": "Programming Language",
+      "description": "",
+      "price": 220
+  
+    },
+    {
+      "id": 5,
+      "picture": "http://placehold.it/32x32",
+      "title": "Web Technologies",
+      "description": "",
+      "price": 100
+  
+    },
+    {
+      "id": 6,
+      "picture": "http://placehold.it/32x32",
+      "title": "Software Engineering",
+      "description": "",
+      "price": 60
+  
+    },
+    {
+      "id": 7,
+      "picture": "http://placehold.it/32x32",
+      "title": "Discrete Mathematics",
+      "description": "",
+      "price": 50
+  
+    },
+    {
+      "id": 8,
+      "picture": "http://placehold.it/32x32",
+      "title": "Data Structure",
+      "description": "",
+      "price": 180
+  
+    },
+    {
+      "id": 9,
+      "picture": "http://placehold.it/32x32",
+      "title": "Computer Fundamentals",
+      "description": "",
+      "price": 50
+  
+    }
+  ]
